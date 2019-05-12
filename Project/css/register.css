@@ -1,0 +1,34 @@
+header{height:97px;border-bottom:2px solid #d33d3d;}
+.layout{width:1000px;height:87px;margin:10px auto;overflow:hidden;}
+header a img{float:left;margin:10px 0 0 5px;display:block;width:206px;height:73px;}
+header i{float:left;margin-left:30px;color:#ccc;font:16px/97px "";display:block;}
+header p{font-size:24px;font-weight:700;padding-top:34px;color:#000;width:117px;margin-left:30px;height:73px;float:left;box-sizing:border-box;}
+header h2{width:140px;height:100%;color:#666;float:right;}
+header h2 a{font-size:20px;margin-top:57px;display:block;}
+
+.layout_c{width:1000px;height:657px;background:#fff;margin:0 auto;overflow:hidden;}
+body{background:rgb(172, 164, 164,.3);}
+#center ul{height:380px;width:718px;margin:42px 0 50px 282px;overflow: hidden;}
+#center ul li{height:55px;margin:10px 20px;}
+#center ul .bomb{width:400px;font:16px/40px "";color:red;text-align:center;height:40px;}
+#center ul li .f1 {overflow:hidden;}
+#center ul li i{float:left;}
+#center ul li .f2{float:left;}
+#center ul li i{height:55px;width:55px;display:inline-block;}
+#center ul li p{border:1px solid #ccc;height:100%;float:left;}
+#center ul li p.one{width:100px;height:55px;margin-left:30px;font:14px/55px "";color:#666;border:0;}
+#center ul li p.one a{color:#c3181f;margin-left:10px;}
+#center ul li input{height:100%;border:0;text-indent:20px;}
+#center ul li p.haha{float:left;}
+#center ul li p.huan{width:120px;height:100%;background:green;margin:0 20px;float:left;}
+.change{width:120px;height:44px;background: #aadddd;border:0;float:left;}
+#center ul li .get{width:120px;margin:0 20px;font:16px/55px "";color:#666;}
+#center ul li .pass{width:440px;height:55px;}
+.agree{height:30px;font:14px/30px "";color:#666;text-align:center;margin-bottom:20px;}
+.agree a{color:red;margin-left:20px;}
+.please{width:340px;height:50px;background:red;font:18px/50px "";color:#fff;border: 0;text-align:center;margin:0 auto;letter-spacing:20px;border-radius:3px;}
+.go{width:340px;height:50px;font:18px/50px "";color:#03a9f4;border: 0;text-align:center;margin:0 auto;border:1px solid #03a9f4;margin-top:20px;border-radius:3px;}
+footer{height:80px;width:100%;text-align:center;color:#666;font:16px/32px "";}
+footer .footer1 a{color:#666;margin-left:20px;}
+footer .footer1 a:hover{color:#c3181f;}
+footer .footer2 a{color:#666;}
