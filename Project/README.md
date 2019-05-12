@@ -14,3 +14,4 @@
 localstorage保存注册信息记录并用此登录，将登录账号记录在登录位置
 2.原生js，面向对象，jquery插件的使用
 3.项目上传github，地址是
+https://github.com/zazazazha/letaotao.git
